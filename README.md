@@ -1,10 +1,10 @@
 Ola, sou o Enrico ☕
 
-
-
 -  Estou aprendendo HTML e CSS
 -  Pronomes: Ele/Dele
 
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3tgc&layout=compact)
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -32,4 +32,14 @@ Ola, sou o Enrico ☕
   />
   <img src="https://github-readme-stats.vercel.app/api?username=3tgc&show_icons=true" />
 </picture>
+
+
+##
+
+<a href="https://github.com/3tgc/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+</a>
+<a href="https://github.com/3tgc/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
 
