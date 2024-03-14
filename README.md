@@ -1,9 +1,6 @@
-### Hi there 👋
+Olá! 👋
 
-<!--
-**3tgc/3tgc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 -  I’m currently learning HTML and CSS
 -  Pronouns: He/Him
