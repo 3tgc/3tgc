@@ -2,15 +2,6 @@ Ola, sou o Enrico ☕
 
 -  Estou aprendendo HTML e CSS
 -  Pronomes: Ele/Dele
-
-
-<a href="https://github.com/3tgc/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=3tgc" />
-</a>
-<a href="https://github.com/3tgc/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=3tgc&layout=compact&langs_count=8&card_width=320" />
-</a>
-
   
   ##
  
