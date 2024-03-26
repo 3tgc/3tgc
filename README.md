@@ -1,10 +1,8 @@
-Ola, sou o Enrico ☕
 
--  Estou aprendendo HTML e CSS
 
   <p align="center">
     <a href="http://jrohit.com.np" target="_blank">
-        <img src="https://github-widgetbox.vercel.app/api/profile?username=leonardoalaff&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%" height="0%">
+        <img src="https://github-widgetbox.vercel.app/api/profile?username=3tgc&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%" height="0%">
     </a>
 
 
