@@ -1,8 +1,7 @@
 Ola, sou o Enrico ☕
 
 -  Estou aprendendo HTML e CSS
--  Pronomes: Ele/Dele
-  
+
   ##
  
 <div> 
