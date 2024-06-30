@@ -4,7 +4,7 @@
     <a href="http://jrohit.com.np" target="_blank">
         <img src="https://github-widgetbox.vercel.app/api/profile?username=3tgc&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%" height="0%">
     </a>
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=640787&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Entusiasta+em+computação;+Técnico+em+informática..." />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=640787&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Entusiasta+em+computação;+Técnico+em+informática" />
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br><br><br>
 
 
@@ -43,6 +43,10 @@
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VsCode" />
       <br>VsCode
+    </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=arduino" width="40" height="40" alt="VsCode" />
+      <br>Arduino
     </td>
 
   </tr>
